@@ -1,0 +1,7 @@
+{
+  "name": "AI 패션 피팅룸",
+  "description": "Upload a photo of a person, character, or animal, and a photo of clothing to see how it looks with AI-powered virtual try-on.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
